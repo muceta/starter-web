@@ -8,8 +8,9 @@ This is an example
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos Git training
 
 ## Deployment
 
+This is a simple web project 
 ## How to Contribute
