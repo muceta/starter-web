@@ -14,3 +14,6 @@ Sample website with plenty of files for demos Git training
 
 This is a simple web project 
 ## How to Contribute
+
+## Copyright
+2019 Git.Training
