@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work by Udemy. Adding a line for rebasing example, then more changes from myfeatures branch too.
+Updating for emergency fix
 
 ## Introduction
 
