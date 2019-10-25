@@ -20,4 +20,4 @@ Please fork this repository
 
 ## Copyright
 
-2019 Git.Training
+2019 Git.Training. All right reserved.
